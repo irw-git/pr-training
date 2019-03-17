@@ -1,7 +1,8 @@
 # pr-training
-project to test out pull reguests
+A project to test out pull requests
 
-## Gilded Rose Requirements Specification
+## Pull request
+Hi and welcome to this sandbox where we will try the use of Pull Requests
 
-Hi and welcome to team IRW. We are jhappy to serve you!
-
+For more information regarding PR on Github please visit:
+<https://help.github.com/en/articles/about-pull-requests>
